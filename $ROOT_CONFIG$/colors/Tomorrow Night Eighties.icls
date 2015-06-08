@@ -206,6 +206,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.HEREGEX_CONTENT">
+      <value />
+    </option>
     <option name="COFFEESCRIPT.HEREGEX_ID">
       <value>
         <option name="FOREGROUND" value="ffcc66" />
@@ -785,6 +788,9 @@
       <value>
         <option name="FOREGROUND" value="cc99cc" />
       </value>
+    </option>
+    <option name="GHERKIN_TABLE_CELL">
+      <value />
     </option>
     <option name="GHERKIN_TABLE_HEADER_CELL">
       <value>
