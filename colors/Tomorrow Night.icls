@@ -214,9 +214,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
       <value>
         <option name="FOREGROUND" value="c5c8c6" />
@@ -336,7 +333,6 @@
         <option name="FOREGROUND" value="c5c8c6" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cc6666" />
