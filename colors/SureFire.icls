@@ -1910,7 +1910,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="6699cc" />
