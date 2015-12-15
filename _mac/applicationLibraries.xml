@@ -2586,6 +2586,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="os (v0.9.6, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/os-0.9.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/os-0.9.6/autotest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/os-0.9.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/os-0.9.6/autotest" />
+      </SOURCES>
+    </library>
     <library name="output-templates (v1.1.0@c2cdd8, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-c2cdd85444eb/bin" />
