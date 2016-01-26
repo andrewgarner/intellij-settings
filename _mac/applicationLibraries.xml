@@ -2782,6 +2782,40 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-a2c0a7e1c3d6/features" />
       </SOURCES>
     </library>
+    <library name="output-templates (v2.0.0@e4e000, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/.config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/.config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-e4e000bb5661/features" />
+      </SOURCES>
+    </library>
+    <library name="output-templates (v2.1.0@9bc3b1, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/.config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/.config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/bundler/gems/output-templates-9bc3b193000d/features" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.2.2.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/parser-2.2.2.0/bin" />
@@ -4313,6 +4347,23 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.19/extra" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.19/rails" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.19/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.21, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/extra" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/rails" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/extra" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/rails" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/sass-3.4.21/vendor" />
       </SOURCES>
     </library>
     <library name="sass-rails (v5.0.3, rbenv: 2.2.3) [gem]">
