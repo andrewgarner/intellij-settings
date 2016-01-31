@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="conf" type="Markdown" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
