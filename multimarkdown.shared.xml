@@ -5,7 +5,7 @@
         <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
       </PanelProvider>
     </PreviewSettings>
-    <ParserSettings parsingTimeout="100">
+    <ParserSettings parsingTimeout="1000">
       <PegdownExtensions>
         <option name="ABBREVIATIONS" value="false" />
         <option name="ANCHORLINKS" value="true" />
