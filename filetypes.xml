@@ -8,6 +8,7 @@
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
       <mapping pattern="id" type="Ruby" />
+      <mapping pattern="Brewfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
