@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="conf" type="Markdown" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
