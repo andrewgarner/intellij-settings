@@ -12,6 +12,8 @@
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </value>
   </option>
+  <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot" />
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
