@@ -9,6 +9,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="el" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
       <mapping pattern="Brewfile" type="Ruby" />
       <mapping pattern="id" type="Ruby" />
