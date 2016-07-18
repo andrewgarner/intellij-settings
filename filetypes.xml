@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
-      <mapping pattern="Brewfile" type="Ruby" />
       <mapping pattern="id" type="Ruby" />
+      <mapping pattern="Brewfile" type="Ruby" />
+      <mapping ext="gemfile" type="Ruby" />
       <mapping ext="conf" type="SmartyConfig" />
     </extensionMap>
   </component>
