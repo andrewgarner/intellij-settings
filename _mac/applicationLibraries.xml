@@ -1613,6 +1613,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20160615, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/domain_name-0.5.20160615/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/domain_name-0.5.20160615/data" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/domain_name-0.5.20160615/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/domain_name-0.5.20160615/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/domain_name-0.5.20160615/data" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/domain_name-0.5.20160615/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.24, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/domain_name-0.5.24/lib" />
@@ -6407,6 +6420,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slimmer-9.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="slimmer (v9.1.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slimmer-9.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slimmer-9.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slimmer-9.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slimmer-9.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slop-3.6.0/lib" />
@@ -6909,6 +6933,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unf_ext-0.0.7.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unf_ext-0.0.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.2, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/lib" />
       </SOURCES>
     </library>
     <library name="unicorn (v4.8.3, rbenv: 2.2.3) [gem]">
