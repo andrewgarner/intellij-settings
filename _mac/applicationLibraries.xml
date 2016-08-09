@@ -5677,6 +5677,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-3.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="govuk_frontend_toolkit (v3.5.1, rbenv: 2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-3.5.1/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-3.5.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-3.5.1/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-3.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="govuk_frontend_toolkit (v4.0.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/govuk_frontend_toolkit-4.0.1/app" />
@@ -14353,6 +14364,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slimmer-9.2.1/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/slimmer-9.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="slimmer (v9.3.2, rbenv: 2.3) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/slimmer-9.3.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/slimmer-9.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/slimmer-9.3.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/slimmer-9.3.2/lib" />
       </SOURCES>
     </library>
     <library name="slop (v3.4.7, rbenv: 2.2.3) [gem]">
