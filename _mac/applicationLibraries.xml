@@ -3169,11 +3169,13 @@
     </library>
     <library name="binding_of_caller (v0.7.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -5466,11 +5468,13 @@
     </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -8051,6 +8055,7 @@
     </library>
     <library name="gherkin (v2.12.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/gherkin/2.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/lib" />
@@ -8060,6 +8065,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/gherkin/2.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/lib" />
@@ -10386,6 +10392,7 @@
     </library>
     <library name="json (v1.8.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/data" />
@@ -10396,6 +10403,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/data" />
@@ -10751,12 +10759,14 @@
     </library>
     <library name="kgio (v2.10.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.10.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/archive" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.10.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.10.0/archive" />
@@ -13298,6 +13308,7 @@
     </library>
     <library name="nokogiri (v1.6.7.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/lib" />
@@ -13308,6 +13319,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2/lib" />
@@ -14822,12 +14834,14 @@
     </library>
     <library name="PriorityQueue (v0.1.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/PriorityQueue/0.1.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/PriorityQueue-0.1.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/PriorityQueue-0.1.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/PriorityQueue-0.1.2/benchmark" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/PriorityQueue/0.1.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/PriorityQueue-0.1.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/PriorityQueue-0.1.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/PriorityQueue-0.1.2/benchmark" />
@@ -16937,12 +16951,14 @@
     </library>
     <library name="raindrops (v0.15.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.15.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.15.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.15.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.15.0/archive" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.15.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.15.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.15.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.15.0/archive" />
