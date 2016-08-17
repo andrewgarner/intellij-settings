@@ -2916,13 +2916,11 @@
     </library>
     <library name="bcrypt (v3.1.11, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -3273,13 +3271,11 @@
     </library>
     <library name="bson (v2.3.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/2.3.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bson-2.3.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bson-2.3.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/2.3.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bson-2.3.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bson-2.3.0/lib" />
       </SOURCES>
@@ -3560,14 +3556,12 @@
     </library>
     <library name="byebug (v2.7.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/2.7.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-2.7.0/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-2.7.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-2.7.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/2.7.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-2.7.0/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-2.7.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/byebug-2.7.0/lib" />
@@ -10837,13 +10831,11 @@
     </library>
     <library name="kgio (v2.9.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.9.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/kgio-2.9.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/kgio-2.9.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.9.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/kgio-2.9.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/kgio-2.9.2/lib" />
       </SOURCES>
@@ -16923,13 +16915,11 @@
     </library>
     <library name="raindrops (v0.13.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.13.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/raindrops-0.13.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/raindrops-0.13.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.13.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/raindrops-0.13.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/raindrops-0.13.0/lib" />
       </SOURCES>
@@ -23277,7 +23267,6 @@
     </library>
     <library name="unicorn (v4.8.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/4.8.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unicorn-4.8.3/t" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unicorn-4.8.3/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unicorn-4.8.3/ext" />
@@ -23289,7 +23278,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/4.8.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unicorn-4.8.3/t" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unicorn-4.8.3/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/unicorn-4.8.3/ext" />
@@ -23813,13 +23801,11 @@
     </library>
     <library name="websocket-driver (v0.5.1, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.5.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.5.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.5.1/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.5.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.5.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.5.1/lib" />
       </SOURCES>
@@ -24142,7 +24128,6 @@
     </library>
     <library name="yajl-ruby (v1.1.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.1.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.1.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.1.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.1.0/tasks" />
@@ -24150,7 +24135,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.1.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.1.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.1.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.1.0/tasks" />
