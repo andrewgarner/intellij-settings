@@ -1,0 +1,21 @@
+<filetype binary="false" description="Fish shell" name="Fish">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords ignore_case="true">
+      <keyword name="and;begin;bg;bind;block;break;breakpoint;builtin;case;cd;command;commandline;complete;contains;continue;count;echo;else;emit;end;exec;exit;false;fg;fish;fish_realpath;fish_right_prompt;for;function;functions;if;jobs;not;or;printf;pwd;random;read;return;set;set_color;source;status;suspend;switch;test;true;ulimit;while" />
+    </keywords>
+  </highlighting>
+  <extensionMap>
+    <mapping pattern=".fish" />
+  </extensionMap>
+</filetype>
