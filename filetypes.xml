@@ -6,11 +6,12 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="el" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
-      <mapping pattern="setup" type="Ruby" />
       <mapping pattern="id" type="Ruby" />
+      <mapping pattern="setup" type="Ruby" />
       <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
       <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
+      <mapping ext="localconfig" type="Ruby" />
       <mapping ext="gemfile" type="Ruby" />
       <mapping ext="conf" type="SmartyConfig" />
       <mapping pattern="Dockerfile" type="Docker file" />
