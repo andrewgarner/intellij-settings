@@ -793,6 +793,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/amq-protocol-2.0.1/benchmarks" />
       </SOURCES>
     </library>
+    <library name="anemone (v0.7.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/anemone-0.7.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/anemone-0.7.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/anemone-0.7.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/anemone-0.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ansi (v1.5.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/ansi-1.5.0/lib" />
@@ -4138,6 +4149,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/image_size-1.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="image_size (v1.4.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/image_size-1.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/image_size-1.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="in_threads (v1.3.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/in_threads-1.3.1/lib" />
@@ -5526,6 +5546,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/little-plugger-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="log4r (v1.1.10, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/log4r-1.1.10/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/log4r-1.1.10/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/log4r-1.1.10/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/log4r-1.1.10/tests" />
       </SOURCES>
     </library>
     <library name="logging (v2.1.0, rbenv: 2.3.3) [gem]">
@@ -7091,6 +7122,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/parallel-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel (v1.9.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/parallel-1.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/parallel-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="parallel_tests (v1.0.7, rbenv: 2.3.3) [gem]">
@@ -9137,6 +9177,15 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rinku-2.0.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rinku-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="robotex (v1.0.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/robotex-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/robotex-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec (v3.0.0, rbenv: 2.3.3) [gem]">
@@ -12238,6 +12287,23 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/whenever-0.9.7/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/whenever-0.9.7/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/whenever-0.9.7/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="wraith (v3.2.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/.github" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/.github" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wraith-3.2.1/templates" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.2.1, rbenv: 2.4) [gem]">
