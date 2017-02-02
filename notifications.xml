@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Database detector" displayType="NONE" />
     <notification groupId="Gem Manager" displayType="NONE" />
     <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
   </component>
