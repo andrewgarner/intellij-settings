@@ -7,8 +7,9 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="el" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
-      <mapping pattern="setup" type="Ruby" />
+      <mapping pattern="find_translations" type="Ruby" />
       <mapping pattern="id" type="Ruby" />
+      <mapping pattern="setup" type="Ruby" />
       <mapping pattern="find_stale_translations" type="Ruby" />
       <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
       <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
