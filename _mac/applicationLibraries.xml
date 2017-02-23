@@ -3622,6 +3622,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk-lint-1.2.1/configs" />
       </SOURCES>
     </library>
+    <library name="govuk_ab_testing (v0.1.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_ab_testing-0.1.4/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_ab_testing-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_ab_testing-0.1.4/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_ab_testing-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="govuk_admin_template (v3.0.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_admin_template-3.0.0/app" />
@@ -3773,6 +3784,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="govuk_frontend_toolkit (v5.1.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-5.1.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-5.1.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-5.1.0/.travis" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-5.1.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-5.1.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_frontend_toolkit-5.1.0/.travis" />
+      </SOURCES>
+    </library>
     <library name="govuk_message_queue_consumer (v3.0.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_message_queue_consumer-3.0.1/lib" />
@@ -3798,6 +3822,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_navigation_helpers-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="govuk_navigation_helpers (v2.3.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_navigation_helpers-2.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_navigation_helpers-2.3.1/lib" />
       </SOURCES>
     </library>
     <library name="govuk_schemas (v0.2.0, rbenv: 2.3.3) [gem]">
@@ -4874,6 +4907,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jasmine-core-2.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="jasmine-core (v2.5.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-core-2.5.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-core-2.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="jasmine-rails (v0.10.8, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.10.8/app" />
@@ -4924,6 +4966,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.13.0/app" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.13.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.13.0/config" />
+      </SOURCES>
+    </library>
+    <library name="jasmine-rails (v0.14.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.14.1/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.14.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.14.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.14.1/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.14.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jasmine-rails-0.14.1/config" />
       </SOURCES>
     </library>
     <library name="jmespath (v1.3.1, rbenv: 2.3.3) [gem]">
