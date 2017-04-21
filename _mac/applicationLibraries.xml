@@ -60,6 +60,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actioncable-5.0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actioncable-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actioncable-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v3.2.22.3, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionmailer-3.2.22.3/lib" />
@@ -177,6 +186,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionmailer-5.0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionmailer-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionmailer-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v3.2.22.3, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionpack-3.2.22.3/lib" />
@@ -292,6 +310,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionpack-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib" />
       </SOURCES>
     </library>
     <library name="actionpack-page_caching (v1.0.2, rbenv: 2.3) [gem]">
@@ -415,6 +442,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionview-5.0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionview-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionview-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.5.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activejob-4.2.5.1/lib" />
@@ -512,6 +548,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activejob-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activejob-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activejob-5.0.2/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v3.2.22.3, rbenv: 2.3) [gem]">
@@ -631,6 +676,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activemodel-5.0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activemodel-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activemodel-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v3.2.22.3, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-3.2.22.3/lib" />
@@ -746,6 +800,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activerecord-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activerecord-5.0.2/lib" />
       </SOURCES>
     </library>
     <library name="activeresource (v3.2.22.3, rbenv: 2.3) [gem]">
@@ -1835,6 +1898,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/arel-7.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v7.1.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/arel-7.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/arel-7.1.4/lib" />
       </SOURCES>
     </library>
     <library name="arel (v7.1.4, rbenv: 2.3.3) [gem]">
@@ -3334,6 +3406,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/capybara-2.12.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/capybara-2.12.1/.yard" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.13.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capybara-2.13.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capybara-2.13.0/.yard" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capybara-2.13.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/capybara-2.13.0/.yard" />
       </SOURCES>
     </library>
     <library name="capybara (v2.4.4, rbenv: 2.3) [gem]">
@@ -5629,6 +5712,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20170223/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20170404, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20170404/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20170404/data" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20170404/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20170404/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20170404/data" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20170404/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.24, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/domain_name-0.5.24/lib" />
@@ -6406,6 +6502,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="factory_girl (v4.5.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/features" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/features" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="factory_girl (v4.5.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/factory_girl-4.5.0/lib" />
@@ -6528,6 +6637,21 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/features" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_girl_rails (v4.5.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/features" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/features" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.5.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="factory_girl_rails (v4.5.0, rbenv: 2.3.3) [gem]">
@@ -7543,6 +7667,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gds-api-adapters-39.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="gds-api-adapters (v41.5.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-api-adapters-41.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-api-adapters-41.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gds-sso (v11.0.0, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gds-sso-11.0.0/app" />
@@ -7619,6 +7752,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gds-sso-11.2.1/app" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gds-sso-11.2.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gds-sso-11.2.1/config" />
+      </SOURCES>
+    </library>
+    <library name="gds-sso (v13.2.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-sso-13.2.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-sso-13.2.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-sso-13.2.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-sso-13.2.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-sso-13.2.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/gds-sso-13.2.0/config" />
       </SOURCES>
     </library>
     <library name="gds-sso (v9.3.0, rbenv: 2.3) [gem]">
@@ -7947,6 +8093,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/globalid-0.3.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.4.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/globalid-0.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/globalid-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="govspeak (v3.3.0, rbenv: 2.3) [gem]">
@@ -8349,6 +8504,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk-lint-2.0.0/configs" />
       </SOURCES>
     </library>
+    <library name="govuk-lint (v2.1.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk-lint-2.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk-lint-2.1.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk-lint-2.1.0/configs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk-lint-2.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk-lint-2.1.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk-lint-2.1.0/configs" />
+      </SOURCES>
+    </library>
     <library name="govuk_ab_testing (v0.1.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/govuk_ab_testing-0.1.4/bin" />
@@ -8410,6 +8578,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.2.0/app" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.2.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.2.0/config" />
+      </SOURCES>
+    </library>
+    <library name="govuk_admin_template (v4.4.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.4.2/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.4.2/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.4.2/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_admin_template-4.4.2/config" />
       </SOURCES>
     </library>
     <library name="govuk_content_models (v35.0.0, rbenv: 2.3) [gem]">
@@ -8791,6 +8972,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/govuk_sidekiq-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="govuk_sidekiq (v0.0.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_sidekiq-0.0.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/govuk_sidekiq-0.0.4/lib" />
       </SOURCES>
     </library>
     <library name="govuk_sidekiq (v0.0.4, rbenv: 2.3.3) [gem]">
@@ -9466,6 +9656,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/http-cookie-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/http-cookie-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="http-cookie (v1.0.3, rbenv: 2.3.1) [gem]">
@@ -10839,6 +11038,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jquery-rails-3.1.4/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jquery-rails-3.1.4/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.1.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jquery-rails-4.1.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jquery-rails-4.1.1/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jquery-rails-4.1.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jquery-rails-4.1.1/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-ui-rails (v5.0.5, rbenv: 2.3) [gem]">
@@ -12877,6 +13087,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
@@ -14668,6 +14887,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.5.11, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.11/bin" />
@@ -15113,6 +15345,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/oauth2-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="oauth2 (v1.3.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/oauth2-1.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/oauth2-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="oauth2 (v1.3.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/oauth2-1.3.1/lib" />
@@ -15256,6 +15497,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/omniauth-gds-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="omniauth-gds (v3.2.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/omniauth-gds-3.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/omniauth-gds-3.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth-gds (v3.2.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/omniauth-gds-3.2.1/lib" />
@@ -15272,6 +15522,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/omniauth-oauth2-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-oauth2 (v1.3.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/omniauth-oauth2-1.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/omniauth-oauth2-1.3.1/lib" />
       </SOURCES>
     </library>
     <library name="omniauth-oauth2 (v1.3.1, rbenv: 2.3.3) [gem]">
@@ -16189,6 +16448,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/poltergeist-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="poltergeist (v1.7.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/poltergeist-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/poltergeist-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="poltergeist (v1.7.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/poltergeist-1.7.0/lib" />
@@ -16786,6 +17054,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="pry-byebug (v3.4.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-byebug (v3.4.2, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
@@ -17207,6 +17484,21 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rack-2.0.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rack-2.0.1/contrib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rack-2.0.1/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/contrib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/contrib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-2.0.1/example" />
       </SOURCES>
     </library>
     <library name="rack (v2.0.1, rbenv: 2.3.1) [gem]">
@@ -17660,6 +17952,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-5.0.0.1" />
       </SOURCES>
     </library>
+    <library name="rails (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rails-5.0.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rails-5.0.2" />
+      </SOURCES>
+    </library>
     <library name="rails-controller-testing (v0.1.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails-controller-testing-0.1.1/lib" />
@@ -17768,6 +18069,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-dom-testing-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="rails-dom-testing (v2.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rails-dom-testing-2.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rails-dom-testing-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-html-sanitizer (v1.0.3, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
@@ -17775,6 +18085,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, rbenv: 2.3.1) [gem]">
@@ -18052,6 +18371,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.0.0.1/exe" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.0.0, rbenv: 2.3) [gem]">
@@ -19342,6 +19672,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rest-client-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="rest-client (v2.0.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rest-client-2.0.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rest-client-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rest-client-2.0.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rest-client-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rest-client (v2.0.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rest-client-2.0.1/bin" />
@@ -20392,6 +20733,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.5.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.5.2, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
@@ -21437,6 +21787,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="sass-rails (v5.0.6, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="sass-rails (v5.0.6, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.6/lib" />
@@ -22226,6 +22585,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/sidekiq-logging-json-0.0.16/lib" />
       </SOURCES>
     </library>
+    <library name="sidekiq-logging-json (v0.0.16, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sidekiq-logging-json-0.0.16/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sidekiq-logging-json-0.0.16/lib" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-logging-json (v0.0.16, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/sidekiq-logging-json-0.0.16/lib" />
@@ -22242,6 +22610,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/sidekiq-statsd-0.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-statsd (v0.1.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sidekiq-statsd-0.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sidekiq-statsd-0.1.5/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq-statsd (v0.1.5, rbenv: 2.3.3) [gem]">
@@ -22637,6 +23014,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/views" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/assets" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v1.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sinatra-1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sinatra-1.0/lib" />
       </SOURCES>
     </library>
     <library name="sinatra (v1.4.6, rbenv: 2.3) [gem]">
@@ -23182,6 +23568,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/sprockets-rails-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sprockets-rails-3.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sprockets-rails-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v3.2.0, rbenv: 2.3.3) [gem]">
@@ -25712,6 +26107,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/webmock-1.21.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/webmock-1.21.0/minitest" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v1.21.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.21.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.21.0/minitest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.21.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/webmock-1.21.0/minitest" />
       </SOURCES>
     </library>
     <library name="webmock (v1.21.0, rbenv: 2.3.3) [gem]">
