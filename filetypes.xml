@@ -6,6 +6,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-builddeps" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="el" type="PLAIN_TEXT" />
