@@ -19324,6 +19324,32 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rb-kqueue-0.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="rbenv: jruby-9.1.9 facet library">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.1.9.0/lib/ruby/stdlib" />
+        <root url="jar:///usr/local/var/rbenv/versions/jruby-9.1.9/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.1.9.0/lib/ruby/stdlib" />
+        <root url="jar:///usr/local/var/rbenv/versions/jruby-9.1.9/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
+    <library name="rbenv: jruby-9.1.9.0 facet library">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.1.9.0/lib/ruby/stdlib" />
+        <root url="jar:///usr/local/var/rbenv/versions/jruby-9.1.9.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.1.9.0/lib/ruby/stdlib" />
+        <root url="jar:///usr/local/var/rbenv/versions/jruby-9.1.9.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v3.12.2, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rdoc-3.12.2/bin" />
