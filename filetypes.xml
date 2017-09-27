@@ -13,13 +13,14 @@
       <mapping ext="el" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
       <mapping pattern="extract_search_paths" type="Python" />
+      <mapping pattern="find_stale_translations" type="Ruby" />
       <mapping pattern="id" type="Ruby" />
       <mapping pattern="verify_corporate_information_pages" type="Ruby" />
       <mapping pattern="find_translations" type="Ruby" />
       <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
+      <mapping pattern="console" type="Ruby" />
       <mapping pattern="setup" type="Ruby" />
-      <mapping pattern="find_stale_translations" type="Ruby" />
       <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
       <mapping ext="gemfile" type="Ruby" />
       <mapping ext="localconfig" type="Ruby" />
