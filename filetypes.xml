@@ -21,6 +21,7 @@
       <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
       <mapping pattern="console" type="Ruby" />
+      <mapping pattern="MetricByDate" type="Ruby" />
       <mapping pattern="setup" type="Ruby" />
       <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
       <mapping ext="gemfile" type="Ruby" />
