@@ -18,6 +18,7 @@
       <mapping pattern="id" type="Ruby" />
       <mapping pattern="verify_corporate_information_pages" type="Ruby" />
       <mapping pattern="find_translations" type="Ruby" />
+      <mapping pattern="govuk-lint-ruby-autocorrect" type="Ruby" />
       <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
       <mapping pattern="console" type="Ruby" />
