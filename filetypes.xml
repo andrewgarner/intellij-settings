@@ -26,6 +26,7 @@
       <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
       <mapping ext="gemfile" type="Ruby" />
       <mapping ext="localconfig" type="Ruby" />
+      <mapping ext="tmp" type="Ruby" />
       <mapping ext="conf" type="SmartyConfig" />
     </extensionMap>
   </component>
