@@ -2185,6 +2185,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/arbre-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="archive-zip (v0.11.0, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/archive-zip-0.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/archive-zip-0.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="archive-zip (v0.11.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/archive-zip-0.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/archive-zip-0.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.7.0, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/archive-zip-0.7.0/lib" />
@@ -4848,6 +4866,32 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/concourse" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.2.0, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/concourse" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/concourse" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.2.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/concourse" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/concourse" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="chronic (v0.10.2, rbenv: 2.3) [gem]">
@@ -19948,6 +19992,50 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/ports" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.2, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ports" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ports" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ports" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ports" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
       </SOURCES>
     </library>
     <library name="notiffany (v0.1.1, rbenv: 2.3.1) [gem]">
