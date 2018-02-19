@@ -4035,15 +4035,15 @@
     </library>
     <library name="bundler (v1.16.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
-        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
-        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/exe" />
-        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/man" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/bundler/man" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/bundler/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/bundler/exe" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
-        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/exe" />
-        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/man" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/bundler/man" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/bundler/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/bundler/exe" />
       </SOURCES>
     </library>
     <library name="bunny (v1.5.1, rbenv: 2.3) [gem]">
