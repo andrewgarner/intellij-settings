@@ -16948,6 +16948,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/json_pure-1.8.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="jsonl (v0.1.5, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jsonl-0.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jsonl-0.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonl (v0.1.5, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jsonl-0.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/jsonl-0.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="jwt (v1.5.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/jwt-1.5.1/lib" />
