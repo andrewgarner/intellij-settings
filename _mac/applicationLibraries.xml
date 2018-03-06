@@ -152,6 +152,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionmailer-3.2.22.3/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionmailer-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionmailer-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionmailer-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionmailer-4.2.10/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.5.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.5.1/lib" />
@@ -330,6 +348,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionpack-3.2.22.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionpack-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionpack-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionpack-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionpack-4.2.10/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.2.5.1, rbenv: 2.3) [gem]">
@@ -523,6 +559,24 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionpack-page_caching-1.0.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionpack-page_caching-1.0.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-4.2.10/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v4.2.5.1, rbenv: 2.3) [gem]">
@@ -830,6 +884,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activeadmin-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-4.2.10/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.5.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activejob-4.2.5.1/lib" />
@@ -1008,6 +1080,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activemodel-3.2.22.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-4.2.10/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v4.2.5.1, rbenv: 2.3) [gem]">
@@ -1197,6 +1287,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-3.2.22.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-4.2.10/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.2.5.1, rbenv: 2.3) [gem]">
@@ -1449,6 +1557,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activesupport-4.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-4.2.10/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.5.1, rbenv: 2.3) [gem]">
@@ -2652,6 +2778,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/arel-6.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v6.0.4, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/arel-6.0.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/arel-6.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v6.0.4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/arel-6.0.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/arel-6.0.4/lib" />
       </SOURCES>
     </library>
     <library name="arel (v7.1.1, rbenv: 2.3) [gem]">
@@ -15371,6 +15515,28 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/inherited_resources-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="integer_hash (v0.1.0, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="integer_hash (v0.1.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/integer_hash-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="invalid_utf8_rejector (v0.0.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/invalid_utf8_rejector-0.0.1/lib" />
@@ -26023,6 +26189,36 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.9, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/contrib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/example" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/contrib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/example" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.9, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/contrib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/example" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/contrib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/example" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-1.6.9/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rack-2.0.1/bin" />
@@ -26637,6 +26833,24 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="rails (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-4.2.10/guides" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-4.2.10/guides" />
+      </SOURCES>
+    </library>
+    <library name="rails (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-4.2.10/guides" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-4.2.10/guides" />
+      </SOURCES>
+    </library>
     <library name="rails (v4.2.5.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-4.2.5.1/guides" />
@@ -26871,6 +27085,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-dom-testing (v1.0.7, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.7/lib" />
@@ -26896,6 +27128,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.9, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-dom-testing-1.0.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-dom-testing-1.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.9, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-dom-testing-1.0.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rails-dom-testing-1.0.9/lib" />
       </SOURCES>
     </library>
     <library name="rails-dom-testing (v2.0.1, rbenv: 2.3) [gem]">
@@ -27196,6 +27446,28 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-3.2.22.3/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-3.2.22.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-3.2.22.3/guides" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.10, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/bin" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.10, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-4.2.10/bin" />
       </SOURCES>
     </library>
     <library name="railties (v4.2.5.1, rbenv: 2.3) [gem]">
