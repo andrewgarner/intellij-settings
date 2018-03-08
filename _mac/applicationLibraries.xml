@@ -3493,6 +3493,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/awesome_print-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="awesome_print (v1.8.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/awesome_print-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/awesome_print-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.6.11, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-2.6.11/lib" />
