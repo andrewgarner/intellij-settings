@@ -29163,6 +29163,32 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.5, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/.travis" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/.travis" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.5, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/.travis" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/.travis" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-3.3.5/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis-namespace (v1.5.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/redis-namespace-1.5.1/lib" />
