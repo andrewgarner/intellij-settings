@@ -22140,14 +22140,12 @@
     </library>
     <library name="kgio (v2.11.2, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kgio-2.11.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kgio-2.11.2/archive" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kgio-2.11.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kgio-2.11.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kgio-2.11.2/archive" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/kgio-2.11.2/lib" />
@@ -30648,14 +30646,12 @@
     </library>
     <library name="PriorityQueue (v0.1.2, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/PriorityQueue/0.1.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/PriorityQueue-0.1.2/benchmark" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/PriorityQueue-0.1.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/PriorityQueue-0.1.2/ext" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/PriorityQueue/0.1.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/PriorityQueue-0.1.2/benchmark" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/PriorityQueue-0.1.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/PriorityQueue-0.1.2/ext" />
@@ -34140,14 +34136,12 @@
     </library>
     <library name="raindrops (v0.19.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/raindrops-0.19.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/raindrops-0.19.0/archive" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/raindrops-0.19.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/raindrops-0.19.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/raindrops-0.19.0/archive" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/raindrops-0.19.0/lib" />
@@ -46182,7 +46176,6 @@
     </library>
     <library name="unicorn (v5.4.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.4.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.4.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.4.0/man" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.4.0/bin" />
@@ -46193,7 +46186,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.4.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.4.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.4.0/man" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.4.0/bin" />
