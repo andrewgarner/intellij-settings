@@ -40983,6 +40983,36 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/sidekiq-4.2.3/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq (v5.0.4, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/.github" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/web" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/.github" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/web" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq (v5.0.4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/.github" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/web" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/.github" />
+        <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.4/web" />
+      </SOURCES>
+    </library>
     <library name="sidekiq (v5.0.5, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sidekiq-5.0.5/web" />
