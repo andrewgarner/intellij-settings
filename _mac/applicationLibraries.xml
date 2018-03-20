@@ -10998,6 +10998,25 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="devise (v4.4.3, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/gemfiles" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/guides" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/app" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/gemfiles" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/guides" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/devise-4.4.3/app" />
+      </SOURCES>
+    </library>
     <library name="devise_invitable (v1.7.2, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/devise_invitable-1.7.2/config" />
@@ -24349,6 +24368,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/loofah-2.2.0/benchmark" />
         <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/loofah-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="loofah (v2.2.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/loofah-2.2.1/benchmark" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/loofah-2.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/loofah-2.2.1/benchmark" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/loofah-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="lrucache (v0.1.4, rbenv: 2.3) [gem]">
