@@ -12549,6 +12549,28 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-model-5.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-model (v5.0.2, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-model (v5.0.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-model-5.0.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-persistence (v5.0.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-persistence-5.0.1/lib" />
@@ -12646,6 +12668,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-rails-5.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v5.0.2, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-rails-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-rails-5.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v5.0.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-rails-5.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/elasticsearch-rails-5.0.2/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-transport (v1.0.18, rbenv: 2.3) [gem]">
@@ -14120,6 +14160,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/faraday-0.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.14.0, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/faraday-0.14.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/faraday-0.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.14.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/faraday-0.14.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/faraday-0.14.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.0, rbenv: 2.3) [gem]">
@@ -18963,6 +19021,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/hashie-3.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.5.7, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashie-3.5.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashie-3.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.5.7, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashie-3.5.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/hashie-3.5.7/lib" />
       </SOURCES>
     </library>
     <library name="hashr (v0.0.22, rbenv: 2.3) [gem]">
@@ -27695,6 +27771,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_test (v0.1.2, rbenv: 2.3) [gem]">
@@ -49765,6 +49859,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/whois-parser-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="will_paginate (v3.1.6, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/will_paginate-3.1.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/will_paginate-3.1.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="will_paginate (v3.1.6, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/will_paginate-3.1.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/will_paginate-3.1.6/lib" />
       </SOURCES>
     </library>
     <library name="with_advisory_lock (v3.2.0, rbenv: 2.4.2) [gem]">
