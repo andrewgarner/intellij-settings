@@ -6473,6 +6473,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/bowler-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="brakeman (v4.2.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/brakeman-4.2.1/bundle" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/brakeman-4.2.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/brakeman-4.2.1/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/brakeman-4.2.1/bundle" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/brakeman-4.2.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/brakeman-4.2.1/bin" />
+      </SOURCES>
+    </library>
     <library name="bson (v1.12.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bson-1.12.1/bin" />
