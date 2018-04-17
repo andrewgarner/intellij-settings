@@ -19347,6 +19347,28 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/govuk_template-0.23.0/app" />
       </SOURCES>
     </library>
+    <library name="govuk_template (v0.23.1, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/app" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/app" />
+      </SOURCES>
+    </library>
+    <library name="govuk_template (v0.23.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/app" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/govuk_template-0.23.1/app" />
+      </SOURCES>
+    </library>
     <library name="gpgme (v2.0.7, rbenv: 1.9.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/gpgme/2.0.7" />
