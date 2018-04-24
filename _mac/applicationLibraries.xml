@@ -8358,13 +8358,11 @@
     </library>
     <library name="bindex (v0.5.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/ext" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/ext" />
       </SOURCES>
@@ -8482,13 +8480,11 @@
     </library>
     <library name="binding_of_caller (v0.7.2, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -8578,11 +8574,13 @@
     </library>
     <library name="binding_of_caller (v0.8.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/ext" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/ext" />
       </SOURCES>
@@ -10015,14 +10013,12 @@
     </library>
     <library name="byebug (v9.0.6, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/lib" />
@@ -18458,7 +18454,6 @@
     </library>
     <library name="ffi (v1.9.18, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/gen" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
@@ -18466,7 +18461,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/gen" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
@@ -25489,13 +25483,11 @@
     </library>
     <library name="iconv (v1.0.4, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/iconv/1.0.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/iconv-1.0.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/iconv-1.0.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/iconv/1.0.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/iconv-1.0.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/iconv-1.0.4/lib" />
       </SOURCES>
@@ -40465,7 +40457,6 @@
     </library>
     <library name="puma (v3.9.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.9.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.9.1/gemfiles" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.9.1/bin" />
@@ -40475,7 +40466,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.9.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.9.1/gemfiles" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.9.1/bin" />
@@ -44769,14 +44759,12 @@
     </library>
     <library name="rb-fsevent (v0.9.8, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.9.8/lib" />
