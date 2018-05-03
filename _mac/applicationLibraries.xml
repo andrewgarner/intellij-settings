@@ -20097,6 +20097,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gds_metrics-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="gds_metrics (v0.1.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/gds_metrics-0.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/gds_metrics-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gelf (v3.0.0, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/gelf-3.0.0/lib" />
