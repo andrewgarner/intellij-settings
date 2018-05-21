@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".Python" type="PLAIN_TEXT" />
       <mapping pattern="eyaml_edit20170622-75656-158sbb7" type="PLAIN_TEXT" />
@@ -17,11 +16,11 @@
       <mapping pattern="verify_corporate_information_pages" type="Ruby" />
       <mapping pattern="MetricByDate" type="Ruby" />
       <mapping pattern="setup" type="Ruby" />
-      <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
       <mapping pattern="id" type="Ruby" />
       <mapping pattern="find_stale_translations" type="Ruby" />
       <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
+      <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
       <mapping pattern="console" type="Ruby" />
       <mapping pattern="find_translations" type="Ruby" />
       <mapping pattern="govuk-lint-ruby-autocorrect" type="Ruby" />
