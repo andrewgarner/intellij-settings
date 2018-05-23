@@ -14440,6 +14440,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/domain_name-0.5.20170404/lib" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20180417, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/lib" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20180417, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.24, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/domain_name-0.5.24/lib" />
@@ -23196,6 +23214,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="http (v3.3.0, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-3.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-3.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="http (v3.3.0, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-3.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-3.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.2, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/http-cookie-1.0.2/lib" />
@@ -23320,6 +23356,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-form_data-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-form_data (v2.1.0, rbenv: 2.4) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-form_data-2.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-form_data-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-form_data (v2.1.0, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-form_data-2.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/http-form_data-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="http_parser.rb (v0.6.0, rbenv: 2.3.1) [gem]">
