@@ -15933,6 +15933,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/es_dump_restore-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="et-orbi (v1.1.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/et-orbi-1.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/et-orbi-1.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="etc (v1.0.0, rbenv: 2.5) [gem]">
       <CLASSES />
       <JAVADOC />
@@ -18280,6 +18289,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fspath-3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fugit (v1.1.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fugit-1.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/fugit-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="gdbm (v2.0.0, rbenv: 2.5) [gem]">
@@ -38487,6 +38505,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/quiet_assets-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="raabro (v1.1.5, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/raabro-1.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/raabro-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.4.7, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rack-1.4.7/bin" />
@@ -47017,6 +47044,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rufus-scheduler (v3.5.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rufus-scheduler-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rufus-scheduler-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="safe_yaml (v1.0.4, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/bin" />
@@ -49770,6 +49806,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/sidekiq-logging-json-0.0.18/lib" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-scheduler (v3.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/sidekiq-scheduler-3.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/sidekiq-scheduler-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq-statsd (v0.1.5, rbenv: 2.3) [gem]">
