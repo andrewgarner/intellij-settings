@@ -27,9 +27,6 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <Ruby>
-    <option name="INDENT_WHEN_CASES" value="false" />
-  </Ruby>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -47,6 +44,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="200" />
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
