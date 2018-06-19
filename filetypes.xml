@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".Python" type="PLAIN_TEXT" />
       <mapping pattern="developer_docs" type="PLAIN_TEXT" />
