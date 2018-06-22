@@ -55173,6 +55173,24 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.7.2, rbenv: 2.5) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v3.7.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v0.0.1, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/sprockets-rails-0.0.1/lib" />
