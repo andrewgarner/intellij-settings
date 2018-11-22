@@ -4286,6 +4286,36 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-ab1786abfc76/config" />
       </excluded>
     </library>
+    <library name="govuk_publishing_components (v12.11.0@f73ee9, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/.git" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/docs" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/spec" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/node_modules" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/.git" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/docs" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/spec" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/node_modules" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/.git" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/docs" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/spec" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/govuk_publishing_components-f73ee9298e3c/config" />
+      </excluded>
+    </library>
     <library name="govuk_publishing_components (v12.2.0, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
