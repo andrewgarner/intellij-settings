@@ -2532,6 +2532,27 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.10.0/config" />
       </excluded>
     </library>
+    <library name="govuk_publishing_components (v12.11.0, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/node_modules" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/node_modules" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.11.0/config" />
+      </excluded>
+    </library>
     <library name="govuk_publishing_components (v12.11.0@65dc69, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2945,6 +2966,23 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_test-0.2.1/bin" />
+      </excluded>
+    </library>
+    <library name="govuk_test (v0.3.0, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_test-0.3.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_test-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_test-0.3.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_test-0.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_test-0.3.0/bin" />
       </excluded>
     </library>
     <library name="govuk_test (v0.3.1, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -4892,6 +4930,26 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
+    <library name="minitest-spec-rails (v5.4.0, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/minitest-spec-rails-5.4.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="mocha (v1.7.0, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5761,6 +5819,26 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/2.5.0/psych/nodes" />
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/2.5.0/psych/handlers" />
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/2.5.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="ptools (v1.3.5, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/certs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/certs" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/ptools-1.3.5/certs" />
       </excluded>
     </library>
     <library name="public_suffix (v2.0.5, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -6960,6 +7038,32 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.58.2/exe" />
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.58.2/assets" />
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.58.2/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.59.2, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/assets" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-0.59.2/config" />
       </excluded>
     </library>
     <library name="rubocop (v0.60.0, rbenv: 2.5.3) [gem]" type="rubylib">
