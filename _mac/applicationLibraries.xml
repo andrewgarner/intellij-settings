@@ -897,6 +897,23 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/capybara-3.11.1/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.12.0, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/capybara-3.12.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/capybara-3.12.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/capybara-3.12.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/capybara-3.12.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/capybara-3.12.0/spec" />
+      </excluded>
+    </library>
     <library name="capybara (v3.7.2, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2696,6 +2713,27 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.15.0/config" />
+      </excluded>
+    </library>
+    <library name="govuk_publishing_components (v12.16.0, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/node_modules" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/config" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/node_modules" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/govuk_publishing_components-12.16.0/config" />
       </excluded>
     </library>
     <library name="govuk_publishing_components (v12.2.0, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -5363,6 +5401,31 @@
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.1/test" />
         <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.1/pages" />
+      </excluded>
+    </library>
+    <library name="oj (v3.7.4, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.7.4" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/pages" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.7.4" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/pages" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/test" />
+        <root url="file:///usr/local/var/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/oj-3.7.4/pages" />
       </excluded>
     </library>
     <library name="omniauth (v1.8.1, rbenv: 2.5.3) [gem]" type="rubylib">
