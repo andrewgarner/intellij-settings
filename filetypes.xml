@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".Python" type="PLAIN_TEXT" />
       <mapping pattern="developer_docs" type="PLAIN_TEXT" />
       <mapping pattern="eyaml_edit20170622-75656-158sbb7" type="PLAIN_TEXT" />
@@ -11,7 +10,6 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping ext="el" type="PLAIN_TEXT" />
-      <mapping ext="cls" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
       <mapping pattern="extract_search_paths" type="Python" />
       <mapping pattern="find_stale_translations" type="Ruby" />
