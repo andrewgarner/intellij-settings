@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".Python" type="PLAIN_TEXT" />
       <mapping pattern="developer_docs" type="PLAIN_TEXT" />
       <mapping pattern="eyaml_edit20170622-75656-158sbb7" type="PLAIN_TEXT" />
@@ -12,24 +11,24 @@
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping ext="el" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="Properties" />
-      <mapping ext="conf" type="nginx file type" />
-      <mapping ext="conf" type="SmartyConfig" />
+      <mapping pattern="extract_search_paths" type="Python" />
+      <mapping pattern="Brewfile2" type="Ruby" />
+      <mapping pattern="console" type="Ruby" />
+      <mapping pattern="verify_corporate_information_pages" type="Ruby" />
+      <mapping pattern="find_translations" type="Ruby" />
+      <mapping pattern="govuk-lint-ruby-autocorrect" type="Ruby" />
+      <mapping pattern="Brewfile" type="Ruby" />
+      <mapping pattern="id" type="Ruby" />
+      <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
+      <mapping pattern="MetricByDate" type="Ruby" />
+      <mapping pattern="setup" type="Ruby" />
+      <mapping pattern="find_stale_translations" type="Ruby" />
+      <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
       <mapping ext="gemfile" type="Ruby" />
       <mapping ext="localconfig" type="Ruby" />
       <mapping ext="tmp" type="Ruby" />
-      <mapping pattern="Brewfile" type="Ruby" />
-      <mapping pattern="Brewfile2" type="Ruby" />
-      <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
-      <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
-      <mapping pattern="MetricByDate" type="Ruby" />
-      <mapping pattern="console" type="Ruby" />
-      <mapping pattern="extract_search_paths" type="Python" />
-      <mapping pattern="find_stale_translations" type="Ruby" />
-      <mapping pattern="find_translations" type="Ruby" />
-      <mapping pattern="govuk-lint-ruby-autocorrect" type="Ruby" />
-      <mapping pattern="id" type="Ruby" />
-      <mapping pattern="setup" type="Ruby" />
-      <mapping pattern="verify_corporate_information_pages" type="Ruby" />
+      <mapping ext="conf" type="nginx file type" />
+      <mapping ext="conf" type="SmartyConfig" />
     </extensionMap>
   </component>
 </application>
