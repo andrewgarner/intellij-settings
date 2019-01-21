@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".Python" type="PLAIN_TEXT" />
       <mapping pattern="developer_docs" type="PLAIN_TEXT" />
       <mapping pattern="eyaml_edit20170622-75656-158sbb7" type="PLAIN_TEXT" />
