@@ -1,10 +1,16 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="Java" />
       <blacklist language="Groovy" />
       <blacklist language="Ruby" />
-      <blacklist language="Java" />
     </blacklists>
     <option id="sql.show.column.names.in.insert.values" value="false" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="JavaScript" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>

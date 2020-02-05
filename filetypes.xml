@@ -1,39 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".Python" type="PLAIN_TEXT" />
-      <mapping pattern="developer_docs" type="PLAIN_TEXT" />
       <mapping pattern="eyaml_edit20170622-75656-158sbb7" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="developer_docs" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".railsrc" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-builddeps" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="header_footer_only" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-builddeps" type="PLAIN_TEXT" />
       <mapping ext="el" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="extract_search_paths" type="Python" />
-      <mapping pattern="console" type="Ruby" />
-      <mapping pattern="verify_corporate_information_pages" type="Ruby" />
-      <mapping pattern="find_translations" type="Ruby" />
-      <mapping pattern="govuk-lint-ruby-autocorrect" type="Ruby" />
-      <mapping pattern="Brewfile" type="Ruby" />
-      <mapping pattern="setup" type="Ruby" />
-      <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
-      <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
-      <mapping pattern="MetricByDate" type="Ruby" />
-      <mapping pattern="Brewfile2" type="Ruby" />
-      <mapping pattern="find_stale_translations" type="Ruby" />
-      <mapping pattern="id" type="Ruby" />
-      <mapping ext="gemfile" type="Ruby" />
-      <mapping ext="tmp" type="Ruby" />
-      <mapping ext="localconfig" type="Ruby" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -41,6 +24,22 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="conf" type="SmartyConfig" />
+      <mapping ext="gemfile" type="Ruby" />
+      <mapping ext="localconfig" type="Ruby" />
+      <mapping ext="tmp" type="Ruby" />
+      <mapping pattern="Brewfile" type="Ruby" />
+      <mapping pattern="Brewfile2" type="Ruby" />
+      <mapping pattern="Gemfile.rails-3.2.x" type="Ruby" />
+      <mapping pattern="Gemfile.rails-4.1.x" type="Ruby" />
+      <mapping pattern="MetricByDate" type="Ruby" />
+      <mapping pattern="console" type="Ruby" />
+      <mapping pattern="extract_search_paths" type="Python" />
+      <mapping pattern="find_stale_translations" type="Ruby" />
+      <mapping pattern="find_translations" type="Ruby" />
+      <mapping pattern="govuk-lint-ruby-autocorrect" type="Ruby" />
+      <mapping pattern="id" type="Ruby" />
+      <mapping pattern="setup" type="Ruby" />
+      <mapping pattern="verify_corporate_information_pages" type="Ruby" />
     </extensionMap>
   </component>
 </application>
